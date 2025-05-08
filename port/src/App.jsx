@@ -19,7 +19,7 @@ const ProtectedRoute = ({ children }) => {
 const NavBar = () => (
   <nav className="navbar">
     <NavLink to="/" className="nav-link">
-      Home
+      Home Again
     </NavLink>
     <NavLink to="/about" className="nav-link">
       About
