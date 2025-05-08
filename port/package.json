@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://wngsdx.github.io/port",
+  "homepage": "https://wngsdx.github.io/pf",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
